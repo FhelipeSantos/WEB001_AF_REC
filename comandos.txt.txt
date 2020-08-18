@@ -1,0 +1,10 @@
+Clonar o repositório:
+Code, copia o https, e cola com comando:git clone
+Usei comando cd nome do repositório, para tornalo (master)
+Adicionei os 3 arquivos: como documento na pasta.
+Arquivos:"nome.txt", "lembrete.txt", "comandos.txt"
+Dei comando "git add *",
+git status para ver se estavam todos certos.
+git commit-m "Recuperação"
+Em seguida comando "git push origin master".
+Transformei o repositório em somente leitura.
